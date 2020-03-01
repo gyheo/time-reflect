@@ -1,0 +1,12 @@
+.time-container h2 {
+    font-size: 100px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.time-container h1 {
+    font-size: 150px;
+    text-align: center;
+    margin: 0px;
+}
